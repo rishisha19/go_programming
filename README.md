@@ -12,3 +12,5 @@ Following are the series of tutorials covered using golang official deck:
 4. [Accessing a relational database](https://github.com/rishisha19/go_programming/tree/master/data-access):	Introduces the basics of accessing a database using the standard library from [tutorial](https://go.dev/doc/tutorial/database-access).
    
 5. [Developing a RESTful API with Go and Gin](https://github.com/rishisha19/go_programming/tree/master/web-service-gin):	Introduces the basics of writing a RESTful web service API with Go and the Gin Web Framework from [tutorial](https://go.dev/doc/tutorial/web-service-gin).
+
+6. [Getting started with generics](https://github.com/rishisha19/go_programming/tree/master/generics): Introduces the basics of generics in Go. With generics, you can declare and use functions or types that are written to work with any of a set of types provided by calling code from [tutorial] (https://go.dev/doc/tutorial/generics).
