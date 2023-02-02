@@ -1,4 +1,4 @@
-# go_programming
+# go programming
 This repository is where I am keeping all the learning and experiments done over go language
 
 Following are the series of tutorials covered using golang official deck:
